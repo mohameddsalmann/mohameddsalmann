@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently building:<br>🕵️‍♂️ A UEBA detective that watches millions of user actions to spot that one sneaky attacker hiding in the noise.<br><br>Currently learning:<br>🤖 How to make streaming ML models catch bad guys in real time — without shouting “wolf” every five minutes.<br><br>Looking to collaborate on:<br>🌐 Any big-data or data-science project that needs real-time anomaly hunting or trillion-row pipelines.<br><br>Looking for help with:<br>🚀 Squeezing every last drop of performance out of GPU clusters and turning chaotic logs into clean, elegant features.<br><br>Ask me about:<br>📊 Streaming ETL, real-time anomaly scores, or why my Flink job eats terabytes for breakfast.<br><br>Fun fact:<br>☕ My pipeline once crunched a week of logs in 3 minutes — and I still had time for coffee.
+I turn chaotic logs into real-time intelligence — streaming ML, UEBA, and pipelines fast enough to outrun attackers. 🕵️‍♂️⚡
 
 
 ## 🌐 Socials:
