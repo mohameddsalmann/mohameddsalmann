@@ -2,36 +2,65 @@
 <!-- ░  MOHAMED SALMAN — LLM ENGINEER · DATA ENGINEER · FULL STACK DEV    ░ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a1628,30:0f2d5a,60:1a4a8a,100:0a1628&text=MOHAMED%20SALMAN&fontSize=62&fontColor=e8f4fd&animation=fadeIn&stroke=4d9de0&strokeWidth=1&desc=LLM%20Engineer%20%7C%20Data%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=19&descAlignY=67&descAlign=50&fontAlignY=42"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d0221,15:150535,30:3a0ca3,50:7b2ff7,70:3a0ca3,85:150535,100:0d0221&text=MOHAMED%20SALMAN&fontSize=62&fontColor=c4b5fd&animation=fadeIn&stroke=a78bfa&strokeWidth=2&desc=LLM%20Engineer%20%7C%20Data%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=19&descAlignY=67&descAlign=50&fontAlignY=42"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=4D9DE0&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=90&lines=%F0%9F%A7%A0+Building+LLM-powered+solutions+%26+intelligent+data+pipelines;%F0%9F%93%8A+Data+Engineering+%7C+Machine+Learning+%7C+Full+Stack+Development;%F0%9F%9A%80+Turning+raw+data+into+real-time+actionable+intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=90&lines=%F0%9F%A7%A0+Building+LLM-powered+solutions+%26+intelligent+data+pipelines;%F0%9F%93%8A+Data+Engineering+%7C+Machine+Learning+%7C+Full+Stack+Development;%F0%9F%9A%80+Turning+raw+data+into+real-time+actionable+intelligence" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+</div>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   $ whoami                                                       ║
-║   > Mohamed Salman                                               ║
-║                                                                  ║
-║   $ cat mission.txt                                              ║
-║   > I build LLM-powered applications, scalable data             ║
-║   > pipelines, and full stack solutions — bridging AI            ║
-║   > with production systems that deliver real value.             ║
-║                                                                  ║
-║   $ cat status.txt                                               ║
-║   > Open to opportunities | Always learning | Always shipping    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+```js
+class MohamedSalman {
+    constructor() {
+        this.name   = "Mohamed Salman";
+        this.roles  = ["LLM Engineer", "Data Engineer", "Full Stack Developer"];
+        this.stack  = ["Python", "LangChain", "PyTorch", "React", "AWS", "Flink"];
+        this.status = "Open to opportunities";
+    }
+    getMission() {
+        return "Bridging AI with production systems that deliver real business value.";
+    }
+}
 ```
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+<br/>
+
+<div align="center">
+
+| 🤖 LLM Engineering | ⚙️ Data Engineering | 🌐 Full Stack |
+|---|---|---|
+| Building intelligent LLM-powered apps — RAG pipelines, prompt engineering, fine-tuning & agent deployment | Scalable ETL/ELT pipelines, real-time streaming with Flink & Airflow on AWS/GCP | End-to-end web apps with React, Next.js, Node.js, Flask & clean REST APIs |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+ ╭──────────────────────────────────────────────────────────────────╮
+ │  "I bridge the gap between AI models and production systems —   │
+ │   building the pipelines that turn raw data into intelligence   │
+ │   and the interfaces that put it in people's hands."            │
+ ╰──────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
@@ -51,7 +80,7 @@
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
@@ -117,7 +146,7 @@
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
@@ -125,21 +154,21 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohameddsalmann&show_icons=true&theme=tokyonight&bg_color=0a1628&hide_border=true&icon_color=4d9de0&title_color=4d9de0&text_color=c9d1d9&ring_color=4d9de0&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohameddsalmann&show_icons=true&theme=tokyonight&bg_color=0d0221&hide_border=true&icon_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&ring_color=7b2ff7&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddsalmann&theme=tokyonight&background=0a1628&hide_border=true&ring=4d9de0&fire=4d9de0&currStreakLabel=4d9de0&sideLabels=4d9de0&dates=8b949e" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddsalmann&theme=tokyonight&background=0d0221&hide_border=true&ring=7b2ff7&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddsalmann&theme=tokyonight&bg_color=0a1628&hide_border=true&title_color=4d9de0&text_color=c9d1d9&layout=compact&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddsalmann&theme=tokyonight&bg_color=0d0221&hide_border=true&title_color=a78bfa&text_color=c9d1d9&layout=compact&langs_count=8" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohameddsalmann&bg_color=0a1628&color=4d9de0&line=4d9de0&point=ffffff&area_color=4d9de0&area=true&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Activity" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohameddsalmann&bg_color=0d0221&color=a78bfa&line=7b2ff7&point=ffffff&area_color=7b2ff7&area=true&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Activity" />
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 
@@ -186,7 +215,7 @@ jobs:
 
 </details>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ QUOTE ═══════════════════════ -->
 
@@ -198,7 +227,7 @@ jobs:
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
 
@@ -210,16 +239,16 @@ jobs:
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=mohameddsalmann&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mohameddsalmann&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:0f2d5a,60:1a4a8a,100:0a1628&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:3a0ca3,50:7b2ff7,70:3a0ca3,100:0d0221&height=120&section=footer"/>
 
 </div>
