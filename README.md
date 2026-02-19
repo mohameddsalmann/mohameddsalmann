@@ -2,7 +2,7 @@
 <!-- ░  MOHAMED SALMAN — LLM ENGINEER · DATA ENGINEER · FULL STACK DEV    ░ -->
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a1628,30:0f2d5a,60:1a4a8a,100:0a1628&text=MOHAMED%20SALMAN&fontSize=62&fontColor=e8f4fd&animation=fadeIn&stroke=4d9de0&strokeWidth=1&desc=LLM%20Engineer%20%7C%20Data%20Engineer%20%7C%20Junior%20Full%20Stack%20Web%20Developer&descSize=18&descAlignY=67&descAlign=50&fontAlignY=42"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0a1628,30:0f2d5a,60:1a4a8a,100:0a1628&text=MOHAMED%20SALMAN&fontSize=62&fontColor=e8f4fd&animation=fadeIn&stroke=4d9de0&strokeWidth=1&desc=LLM%20Engineer%20%7C%20Data%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=19&descAlignY=67&descAlign=50&fontAlignY=42"/>
 
 <div align="center">
 
@@ -12,13 +12,28 @@
 
 <br/><br/>
 
-╔══════════════════════════════════════════════════════════════════╗ ║ ║ ║ $ whoami ║ ║ > Mohamed Salman ║ ║ ║ ║ $ cat mission.txt ║ ║ > I build LLM-powered applications, scalable data ║ ║ > pipelines, and full stack solutions — bridging AI ║ ║ > with production systems that deliver real value. ║ ║ ║ ║ $ cat status.txt ║ ║ > Open to opportunities | Always learning | Always shipping ║ ║ ║ ╚══════════════════════════════════════════════════════════════════╝
-
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   $ whoami                                                       ║
+║   > Mohamed Salman                                               ║
+║                                                                  ║
+║   $ cat mission.txt                                              ║
+║   > I build LLM-powered applications, scalable data             ║
+║   > pipelines, and full stack solutions — bridging AI            ║
+║   > with production systems that deliver real value.             ║
+║                                                                  ║
+║   $ cat status.txt                                               ║
+║   > Open to opportunities | Always learning | Always shipping    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<!-- DIVIDER -->
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
 <div align="center">
 
@@ -38,11 +53,14 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+
 <h2 align="center">🛠️ TECH STACK 🛠️</h2>
 
 <div align="center">
 
 #### 🧠 Languages
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,r,java,js,html,css&theme=dark" />
 </a>
@@ -50,6 +68,7 @@
 <br/><br/>
 
 #### ☁️ Cloud & Infrastructure
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx&theme=dark" />
 </a>
@@ -57,6 +76,7 @@
 <br/><br/>
 
 #### 🔧 Frameworks & Tools
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flask,react,nextjs,nodejs,jenkins,postman,git&theme=dark" />
 </a>
@@ -64,6 +84,7 @@
 <br/><br/>
 
 #### 🗄️ Databases
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" />
 </a>
@@ -98,24 +119,19 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
 
-<h2 align="center">📊 GITHUB STATS 📊</h2>
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
-<!--
-  IMPORTANT: Using github-readme-stats-fast.vercel.app instead of the
-  original github-readme-stats.vercel.app (which is paused/unreliable)
-  and streak-stats.demolab.com (returning 403 since Feb 2026).
-  github-readme-stats-fast includes a built-in streak card.
--->
+<h2 align="center">📊 GITHUB STATS 📊</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=mohameddsalmann&show_icons=true&theme=tokyonight&bg_color=0a1628&hide_border=true&icon_color=4d9de0&title_color=4d9de0&text_color=c9d1d9&ring_color=4d9de0&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohameddsalmann&show_icons=true&theme=tokyonight&bg_color=0a1628&hide_border=true&icon_color=4d9de0&title_color=4d9de0&text_color=c9d1d9&ring_color=4d9de0&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/streak?username=mohameddsalmann&theme=tokyonight&bg_color=0a1628&hide_border=true&ring=4d9de0&fire=4d9de0&currStreakLabel=4d9de0&sideLabels=4d9de0&dates=8b949e" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddsalmann&theme=tokyonight&background=0a1628&hide_border=true&ring=4d9de0&fire=4d9de0&currStreakLabel=4d9de0&sideLabels=4d9de0&dates=8b949e" />
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohameddsalmann&theme=tokyonight&bg_color=0a1628&hide_border=true&title_color=4d9de0&text_color=c9d1d9&layout=compact&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddsalmann&theme=tokyonight&bg_color=0a1628&hide_border=true&title_color=4d9de0&text_color=c9d1d9&layout=compact&langs_count=8" />
 
 <br/><br/>
 
@@ -124,6 +140,8 @@
 </div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 
 <h2 align="center">🐍 CONTRIBUTION SNAKE 🐍</h2>
 
@@ -164,19 +182,44 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-✍️ RANDOM DEV QUOTE
-
-
-
-
-🏆 GITHUB TROPHIES
-
-
-
-
-
-
-
 ```
+
+</details>
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+
+<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
+
+<div align="center">
+
+### ✍️ RANDOM DEV QUOTE
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+
+<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
+
+<div align="center">
+
+### 🏆 GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohameddsalmann&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+
+</div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"></p>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=mohameddsalmann&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,30:0f2d5a,60:1a4a8a,100:0a1628&height=120&section=footer"/>
+
+</div>
