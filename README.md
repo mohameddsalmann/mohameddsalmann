@@ -71,7 +71,7 @@ class MohamedSalman {
 <a href="https://www.facebook.com/mody.salman.75">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/mohamed-ali-26a17838b/">
+<a href="https://www.linkedin.com/in/mohamed-salman-26a17838b/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 <a href="mailto:mohamedsalman5356@gmail.com">
